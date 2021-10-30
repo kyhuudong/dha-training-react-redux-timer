@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dha-training-react-redux-timer/static/css/main.8ae8dfef.chunk.css",
+    "main.js": "/dha-training-react-redux-timer/static/js/main.d3ccc4a2.chunk.js",
+    "main.js.map": "/dha-training-react-redux-timer/static/js/main.d3ccc4a2.chunk.js.map",
+    "runtime-main.js": "/dha-training-react-redux-timer/static/js/runtime-main.bd3f3dd4.js",
+    "runtime-main.js.map": "/dha-training-react-redux-timer/static/js/runtime-main.bd3f3dd4.js.map",
+    "static/js/2.3112762f.chunk.js": "/dha-training-react-redux-timer/static/js/2.3112762f.chunk.js",
+    "static/js/2.3112762f.chunk.js.map": "/dha-training-react-redux-timer/static/js/2.3112762f.chunk.js.map",
+    "static/js/3.88e3239b.chunk.js": "/dha-training-react-redux-timer/static/js/3.88e3239b.chunk.js",
+    "static/js/3.88e3239b.chunk.js.map": "/dha-training-react-redux-timer/static/js/3.88e3239b.chunk.js.map",
+    "index.html": "/dha-training-react-redux-timer/index.html",
+    "static/css/main.8ae8dfef.chunk.css.map": "/dha-training-react-redux-timer/static/css/main.8ae8dfef.chunk.css.map",
+    "static/js/2.3112762f.chunk.js.LICENSE.txt": "/dha-training-react-redux-timer/static/js/2.3112762f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd3f3dd4.js",
+    "static/js/2.3112762f.chunk.js",
+    "static/css/main.8ae8dfef.chunk.css",
+    "static/js/main.d3ccc4a2.chunk.js"
+  ]
+}
